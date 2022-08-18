@@ -6,7 +6,7 @@ p {
 }
 
 h1 {
-  background-image: url("/resources/css/image1.jpeg");
+  background-image: url("./resources/css/image1.jpeg");
   text-align: center;
   font-size: 100px;
   color: khaki;
